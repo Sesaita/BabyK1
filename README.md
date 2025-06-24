@@ -10,6 +10,7 @@ Currently WIP 10mm Y Rods (LMU10), 10mmx313mm H6.
 BOM:
 
 2x 8mm h6 313mm
+
 2x Misumi LMU10
 
 ![K1 10mmY BCJ linear rail gantry](https://github.com/user-attachments/assets/e9322014-f678-4167-8ced-8fcd0d2d232d)
