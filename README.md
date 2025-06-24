@@ -9,7 +9,7 @@ Currently WIP 10mm Y Rods (LMU10), 10mmx313mm H6.
 
 BOM:
 
-2x 8mm h6 313mm
+2x 10mm h6 313mm
 
 2x Misumi LMU10
 
