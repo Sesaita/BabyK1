@@ -7,7 +7,7 @@ Inertia Toolhead <br>
 Inertia Carriage modified <br>
 Cartographer<br>
 
-Travel will be roughly x 222 y 225 and <br>
+Travel will be roughly x 225 y 225 and <br>
 Print Area roughly x 225 y 220 <br>
 
 ![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/WIP%20Inertia%20Toolhead%20K1/IMG_20250828_154139582.jpg) 
