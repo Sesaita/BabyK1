@@ -1,4 +1,5 @@
-Inertia Toolhead Adaption for K1 10mm rods. Work in Progress <br>
+Work in Progress <br>
+Inertia Toolhead Adaption for K1 10mm rods.<br>
 8mm y rods Version is also aviable now (8mm are stock on k1)<br>
 
 
@@ -6,6 +7,7 @@ Check out: https://github.com/Inertia-Bros/Inertia-Toolhead <br>
 BTT EBB36 <br>
 Inertia Extruder <br>
 Inertia Toolhead <br>
+Inertia Mainbodie <br>
 Inertia Carriage modified <br>
 Cartographer<br>
 
@@ -31,6 +33,8 @@ Inertia Mainbodies<br>
 At the Moment only the Dragon ACE Volcano UHF is compatible.(Thats what im using)<br>
 I can adjust for another/different Carriage/Mainbodie just message me or do it yourself :). <br>
 https://github.com/Inertia-Bros/Inertia-Toolhead<br>
+
+Printer.cfg config soon TM <br>
 
 ![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/WIP%20Inertia%20Toolhead%20K1/K1%20Inertia%20Toolhead%201.jpg) 
 ![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/WIP%20Inertia%20Toolhead%20K1/K1%20Inertia%20Toolhead%202.jpg) 
