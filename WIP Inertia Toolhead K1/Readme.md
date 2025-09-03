@@ -1,5 +1,5 @@
 Inertia Toolhead Adaption for K1 10mm rods. Work in Progress <br>
-8mm y rods Version WIP<br>
+8mm y rods Version is also aviable now (8mm are stock on k1)<br>
 
 
 Check out: https://github.com/Inertia-Bros/Inertia-Toolhead <br>
