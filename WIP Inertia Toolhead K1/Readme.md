@@ -15,13 +15,13 @@ Travel will be roughly x 225 y 225 and <br>
 Print Area roughly x 225 y 220 <br>
 
 Inertia Toolhead Carriage<br>
-6x m3 voron heat insert<br>
+6x m3 voron heat insert(M3x5x4)<br>
 4x m3x16 SHCS<br>
 2x m3x6 flat head screws for carto/probe<br>
 
 BCJ XY Joints<br>
 4x m3 thin square nut<br>
-2x m3 voron heat insert<br>
+2x m3 voron heat insert(M3x5x4)<br>
 2x m3xXX BHCS<br>
 
 Inertia Extruder<br>
