@@ -26,9 +26,9 @@ BCJ XY Joints<br>
 2x m3 voron heat insert(M3x5x4)<br>
 2x m3xXX BHCS<br>
 
-1x BTT EBB36 Mount
-1x Inertia Extruder (Inertia Github)
-1x Inertia Mainbodie (Inertia Github)
+1x BTT EBB36 Mount<br>
+1x Inertia Extruder (Inertia Github)<br>
+1x Inertia Mainbodie (Inertia Toolhead Github)<br>
 ##################################################################################<br>
 
 Printer.cfg config <br>
