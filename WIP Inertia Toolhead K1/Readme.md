@@ -1,28 +1,9 @@
 Work in Progress <br>
-Inertia Toolhead Adaption for K1 10mm rods.<br>
-8mm y rods Version is also aviable now (8mm are stock on k1)<br>
-
-
-Check out: https://github.com/Inertia-Bros/Inertia-Toolhead <br>
-BTT EBB36 <br>
-Inertia Extruder <br>
-Inertia Toolhead <br>
-Inertia Mainbodie <br>
-Inertia Carriage modified <br>
-Cartographer<br>
+Inertia Toolhead Adaption for K1 10mm Y rods. 8mm Y rods Version is also aviable now (8mm are stock on k1)<br>
 
 Travel will be roughly x 225 y 225 and <br>
-Print Area roughly x 225 y 220 <br>
-
-Inertia Toolhead Carriage<br>
-8x m3 voron heat insert(M3x5x4)<br>
-4x m3x16 SHCS<br>
-2x m3x6 flat head screws for carto/probe<br>
-
-BCJ XY Joints<br>
-4x m3 thin square nut<br>
-2x m3 voron heat insert(M3x5x4)<br>
-2x m3xXX BHCS<br>
+Print Area roughly x 225 y 220 (The nozzle will go 5mm over the build plate to the front)<br>
+##################################################################################<br>
 
 Inertia Extruder<br>
 Check their GitHub for the files, a bom is in their discord aswell.<br>
@@ -33,8 +14,24 @@ Inertia Mainbodies<br>
 At the Moment only the Dragon ACE Volcano UHF is compatible.(Thats what im using)<br>
 I can adjust for another/different Carriage/Mainbodie just message me or do it yourself :). <br>
 https://github.com/Inertia-Bros/Inertia-Toolhead<br>
+##################################################################################<br>
 
-Printer.cfg config soon TM <br>
+1x Inertia Toolhead Carriage modified for belt clips and nozzle lowered<br>
+8x m3 voron heat insert(M3x5x4)<br>
+4x m3x16 SHCS<br>
+2x m3x6 flat head screws for carto/probe<br>
+
+BCJ XY Joints<br>
+4x m3 thin square nut<br>
+2x m3 voron heat insert(M3x5x4)<br>
+2x m3xXX BHCS<br>
+
+1x BTT EBB36 Mount
+1x Inertia Extruder (Inertia Github)
+1x Inertia Mainbodie (Inertia Github)
+##################################################################################<br>
+
+Printer.cfg config <br>
 
 [stepper_x]<br>
 position_endstop: 225<br>
@@ -79,6 +76,7 @@ rtd_nuim_of_wires: 2<br>
 uart_pin: BTTEBB36:PA15<br>
 run_current: 0.6<br>
 sense_resistor:0.110<br>
+##################################################################################<br>
 
 ![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/WIP%20Inertia%20Toolhead%20K1/K1%20Inertia%20Toolhead%201.jpg) 
 ![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/WIP%20Inertia%20Toolhead%20K1/K1%20Inertia%20Toolhead%202.jpg) 
