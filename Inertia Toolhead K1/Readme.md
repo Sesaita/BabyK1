@@ -78,6 +78,6 @@ run_current: 0.6<br>
 sense_resistor:0.110<br>
 ##################################################################################<br>
 
-![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/WIP%20Inertia%20Toolhead%20K1/K1%20Inertia%20Toolhead%201.jpg) 
-![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/WIP%20Inertia%20Toolhead%20K1/K1%20Inertia%20Toolhead%202.jpg) 
-![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/WIP%20Inertia%20Toolhead%20K1/K1%20Inertia%20Toolhead%203.jpg) 
+![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/Inertia%20Toolhead%20K1/K1%20Inertia%20Toolhead%201.jpg) 
+![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/Inertia%20Toolhead%20K1/K1%20Inertia%20Toolhead%202.jpg) 
+![K1 Inertia Toolhead](https://github.com/Sesaita/BabyK1/blob/main/Inertia%20Toolhead%20K1/K1%20Inertia%20Toolhead%203.jpg) 
