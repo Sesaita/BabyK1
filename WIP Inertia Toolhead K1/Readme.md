@@ -1,5 +1,5 @@
 Work in Progress <br>
-Inertia Toolhead Adaption for K1 10mm Y rods. 8mm Y rods Version is also aviable now (8mm are stock on k1)<br>
+Inertia Toolhead Adaption for K1 8 or 10mm Y rods. (8mm are stock on k1)<br>
 
 Travel will be roughly x 225 y 225 and <br>
 Print Area roughly x 225 y 220 (The nozzle will go 5mm over the build plate to the front)<br>
