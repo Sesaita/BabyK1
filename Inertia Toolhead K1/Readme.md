@@ -1,8 +1,8 @@
 Work in Progress/Rail Placement is highly debatable. <br>
 Inertia Toolhead Adaption for K1 8 or 10mm Y rods. (8mm are stock on k1)<br>
 
-Travel will be roughly x 225 y 225 and <br>
-Print Area roughly x 225 y 220 (The nozzle will go 5mm over the build plate to the front)<br>
+Travel x 225 y 225 and <br>
+Print Area x 225 y 220 (The nozzle will go 5mm over the build plate to the front)<br>
 ##################################################################################<br>
 
 Inertia Extruder<br>
