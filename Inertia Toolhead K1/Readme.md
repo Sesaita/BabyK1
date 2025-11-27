@@ -1,4 +1,4 @@
-Work in Progress <br>
+Work in Progress/Rail Placement is highly debatable. <br>
 Inertia Toolhead Adaption for K1 8 or 10mm Y rods. (8mm are stock on k1)<br>
 
 Travel will be roughly x 225 y 225 and <br>
