@@ -5,8 +5,6 @@ BCJ Discord: https://discord.gg/gRDr2ggNuM
 
 Creality K1 BCJ Linear Rail Gantry Shaper Stock + Shaper Steel Side Panels 
 
-Currently WIP 10mm Y Rods (LMU10), 10mmx312mm H6.
-
 BOM:
 
 2x 10mm h6 312mm
