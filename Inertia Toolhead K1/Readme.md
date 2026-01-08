@@ -1,4 +1,6 @@
-Work in Progress/Rail Placement is highly debatable. <br>
+Rail Placement is highly debatable. <br>
+##################################################################################<br>
+
 Inertia Toolhead Adaption for K1 8 or 10mm Y rods. (8mm are stock on k1)<br>
 
 Travel x 225 y 225 and <br>
